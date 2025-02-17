@@ -1,7 +1,9 @@
 # selectDate
 
 This application allows you to select the current date or the one of your choice in a calendar to copy it to the clipboard. It then allows you to create folders or files with a date. This is handy for classifying documents by chronology.
-It can then be used as an applet in the chosen graphical environment
+It can then be used as an applet in the chosen graphical environment.
+
+The app is inspired by a handy lxde utility. It has disappeared from the lxde project and has not been ported to the lxqt or xfce4 graphical environment.
 
 # keywords
 
@@ -21,10 +23,6 @@ __xclip__ __wl-clipboard__ __zenity__
 
     git clone https://github.com/albanmartel/selectDate.git
     
-or 
-
-    wget https://raw.githubusercontent.com/albanmartel/selectDate/master/selectDate.sh
-
 ## Install app with Makefile
 
     cp selectDate
@@ -36,8 +34,9 @@ or
 
 # set lxpanel clock
 
-click on the clock lxpanel --->__parameters__---> __action line__
+The application can be integrated into the dashboard of the graphical environment as an applette. Just add a shortcut in the task manager with a drag and drop
+It also works with plasma (kde) added as a desktop shortcut in the Task Manager
 
-complete the fields of action by: 
+# Execution  
 
-    selectDate
+in a terminal enter the command: "selectDate". The selection of the date in a calendar should then appear
