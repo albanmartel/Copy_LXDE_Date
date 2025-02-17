@@ -15,13 +15,13 @@ __debian, debian like and other GNU/Linux__
 
 __xclip__ __wl-clipboard__ __zenity__
 
-# Install dependencies
+# Dependencies
 
 (Débian)
 
     apt install zenity xclip wl-clipboard
 
-# Install
+# Install App
 
 ## Download selectDate.sh
 
