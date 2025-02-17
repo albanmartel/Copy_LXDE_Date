@@ -1,11 +1,16 @@
-# Copy_LXDE_Date
-copy dates lxde clock lxpanel panel
+# selectDate
+
+This application allows you to select the current date or the one of your choice in a calendar to copy it to the clipboard. It then allows you to create folders or files with a date. This is handy for classifying documents by chronology.
+It can then be used as an applet in the chosen graphical environment
+
+# keywords
+select date, copy in clipboard, xfce clock lxpanel panel
 
 operating system :
 __debian, debian like and other GNU/Linux__
 
 install dependencies
-__xclip__ __wl-clipboard__ _zenity__
+__xclip__ __wl-clipboard__ __zenity__
 
 # Install dependencies
 
