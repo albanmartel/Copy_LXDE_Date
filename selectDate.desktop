@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SelectDate
+Comment[fr]=La date sélectionnée est au format suivant : annee-mois-jour. Exemple 2025-02-18
+Comment=The selected date is in the following format: year-month-day. Example 2025-02-18
+Keywords=date;command;commandline
+Exec=selectDate
+Icon=selectDate.svg
+Type=Application
+Categories=GNOME;PLASMA;Utility
+Terminal=false
