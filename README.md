@@ -11,7 +11,8 @@ select date, copy in clipboard, xfce clock lxpanel panel
 
 __debian, debian like and other GNU/Linux__
 
-install dependencies
+# Dependencies
+
 __xclip__ __wl-clipboard__ __zenity__
 
 # Install dependencies
