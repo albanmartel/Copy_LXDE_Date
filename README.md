@@ -17,7 +17,7 @@ __xclip__ __wl-clipboard__ __zenity__
 
 # Install App
 
-## Download selectDate.sh
+## Clone selectDater project
 
     git clone https://github.com/albanmartel/Copy_LXDE_Date.git
     
@@ -25,11 +25,15 @@ or
 
     wget https://raw.githubusercontent.com/albanmartel/Copy_LXDE_Date/master/selectDate.sh
 
-## move on and give execute permissions to the script
+## Install app with Makefile
 
-    mv selectDate.sh /usr/bin/selectDate
-    sudo chmod +x /usr/bin/selectDate
-    
+    cp selectDate
+    sudo make install 
+
+## Uninstall app
+
+    sudo make uninstall
+
 # set lxpanel clock
 
 click on the clock lxpanel --->__parameters__---> __action line__
