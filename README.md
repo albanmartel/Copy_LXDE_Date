@@ -2,17 +2,16 @@
 copy dates lxde clock lxpanel panel
 
 operating system :
-__ubuntu or lxde__
+__debian, debian like and other GNU/Linux__
 
 install dependencies
 __xclip__ __wl-clipboard__ _zenity__
 
 # Install dependencies
 
-(for ubuntu)
+(Débian)
 
     apt install zenity xclip wl-clipboard
-    
 
 # Install
 
