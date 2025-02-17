@@ -19,11 +19,11 @@ __xclip__ __wl-clipboard__ __zenity__
 
 ## Clone selectDater project
 
-    git clone https://github.com/albanmartel/Copy_LXDE_Date.git
+    git clone https://github.com/albanmartel/selectDate.git
     
 or 
 
-    wget https://raw.githubusercontent.com/albanmartel/Copy_LXDE_Date/master/selectDate.sh
+    wget https://raw.githubusercontent.com/albanmartel/selectDate/master/selectDate.sh
 
 ## Install app with Makefile
 
