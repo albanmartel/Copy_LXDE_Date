@@ -5,13 +5,13 @@ operating system :
 __ubuntu or lxde__
 
 install dependencies
-__xclip__ and _zenity__
+__xclip__ __wl-clipboard__ _zenity__
 
 # Install dependencies
 
 (for ubuntu)
 
-    apt install zenity xclip
+    apt install zenity xclip wl-clipboard
     
 
 # Install
