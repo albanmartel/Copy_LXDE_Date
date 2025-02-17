@@ -4,9 +4,11 @@ This application allows you to select the current date or the one of your choice
 It can then be used as an applet in the chosen graphical environment
 
 # keywords
+
 select date, copy in clipboard, xfce clock lxpanel panel
 
-operating system :
+# Supported Operating Systems 
+
 __debian, debian like and other GNU/Linux__
 
 install dependencies
